@@ -105,7 +105,7 @@
         function fetchWeather() {
             const city = document.getElementById('city-input').value;
             const apiKey = '40210a6ba2b51e573627c77b0758af3a';
-            const apiUrl = `http://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apiKey}&units=metric`;
+            const apiUrl = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apiKey}&units=metric`;
 
             fetch(apiUrl)
                 .then(response => response.json())
@@ -135,5 +135,6 @@
     </script>
 </body>
 </html>
+
 
 
