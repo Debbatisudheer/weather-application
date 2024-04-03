@@ -77,3 +77,32 @@ The Weather App requires an API key to access the OpenWeatherMap API. The API ke
 Note:
 ------
 Before using the Weather App, ensure that you have a valid API key for the OpenWeatherMap API. You can obtain an API key by signing up on the OpenWeatherMap website (https://home.openweathermap.org/users/sign_up).
+
+API Reference
+-------------
+
+https://home.openweathermap.org
+
+Contributing
+============
+
+Contributions to the Weather Application are welcome! You can contribute by:
+----------------------------------------------------------------------------
+
+    Reporting bugs
+    Suggesting new features
+    Submitting pull requests
+
+License
+-------
+
+This project is licensed under the MIT License.
+
+
+Contact
+-------
+
+For any inquiries or feedback, please contact:
+
+    Email: debbatisudheerpatel@gmail.com
+    
