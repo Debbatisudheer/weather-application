@@ -5,6 +5,13 @@ Introduction:
 --------------
 The Weather App is a simple Python script that fetches current weather information and weather forecast for a given city using the OpenWeatherMap API.
 
+Features
+--------
+
+    1. Fetches current weather data for a specified city.
+    2. Displays temperature, humidity, and wind speed information.
+    3. Provides error handling for network issues and API errors.
+
 Usage:
 -------
 To use the Weather App, follow these steps:
